@@ -14,7 +14,7 @@ En aquesta activitat, utilitzarem el format Markdown per redactar un assaig sobr
 
 TikTok és una aplicació de xarxes socials que permet als usuaris crear i compartir vídeos curts que van des de 15 segons fins a un minut. Aquesta aplicació ha experimentat un gran creixement en els últims anys, fins al punt que a dia d'avui és una de les xarxes socials més utilitzades al món, amb més de mil milions d'usuaris actius mensuals. En aquest assaig, explorarem l'èxit de TikTok a través de les ulleres de Lev Manovich i la seva teoria sobre l'hibridació cultural.
 
-![Logo](internetmatters.org/wp-content/uploads/2019/04/Tik_Tok_logo-600x310.png)
+![Logo](https://www.internetmatters.org/wp-content/uploads/2019/04/Tik_Tok_logo-600x310.png)
 
 ### L'hibridació cultural a TikTok
 
@@ -37,6 +37,8 @@ A més, la naturalesa breu dels vídeos a TikTok incentiva la creativitat i la i
 ## NFTs amb les ulleres de Manovich
 
 Els NFTs (Tokens No Fungibles, per les seves sigles en anglès) s'han convertit en un tema candent en l'àmbit de la cultura digital i les arts. En aquest assaig, explorarem l'exemple dels NFTs utilitzant les ulleres de Lev Manovich i la seva teoria sobre l'hibridació cultural.
+
+![Logo NFT](https://bernardmarr.com/wp-content/uploads/2021/11/What-Are-NFTs-An-Easy-Explanation-For-Anyone.jpg)
 
 ### L'hibridació cultural dels NFTs
 
