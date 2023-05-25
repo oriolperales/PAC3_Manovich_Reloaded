@@ -71,4 +71,5 @@ En conclusió, els NFTs representen un exemple fascinant d'hibridació cultural 
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Internet Matters](https://www.internetmatters.org/es/) , [rockcontent](https://rockcontent.com/es/) , [Bernatmarr](https://bernardmarr.com/)
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Internet Matters](https://www.internetmatters.org/es/) , [rockcontent](https://rockcontent.com/es/) , [Bernatmarr](https://bernardmarr.com/), [UOC]( http://www.uoc.edu/serveilinguistic/criteris/convencions/referencies_bib.html)
+
